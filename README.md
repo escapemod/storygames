@@ -1,11 +1,12 @@
 # storygames
 
 * Destiny: New Light (Campaign and Strikes)
-* Witcher 3
-* Dark Souls / Bloodborne
+* Dark Souls 
+* Bloodborne
 
 ## Candidates
 
+* Witcher 3
 * Persona 5
 * Final Fantasy XV
 * Star Wars Jedi: Fallen Order
