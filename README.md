@@ -4,10 +4,10 @@
 * Dark Souls 
 * Bloodborne
 
-## Candidates
+[comment]: # (## Candidates)
 
-* Witcher 3
-* Persona 5
-* Final Fantasy XV
-* Star Wars Jedi: Fallen Order
-* Star Wars: Jedi Starfighter
+[comment]: # (* Witcher 3)
+[comment]: # (* Persona 5)
+[//]: # (* Final Fantasy XV)
+[//]: # (* Star Wars Jedi: Fallen Order)
+[//]: # (* Star Wars: Jedi Starfighter)
